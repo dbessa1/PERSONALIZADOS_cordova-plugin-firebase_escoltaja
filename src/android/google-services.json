@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077119519895",
+    "firebase_url": "https://fihorapido.firebaseio.com",
+    "project_id": "fihorapido",
+    "storage_bucket": "fihorapido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077119519895:android:56c43957787492cd",
+        "android_client_info": {
+          "package_name": "com.grantec.filhorapido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077119519895-g1l40n2jju2tjjsj4n878ugll25j7mh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grantec.filhorapido",
+            "certificate_hash": "D8164481128636ECD7790E81755E3A14CDDC46EB"
+          }
+        },
+        {
+          "client_id": "1077119519895-eqtt7m6rqohqm943kt4j2sm8cck74s8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AgoPlkY1PJ6zDTNSRhu7zrHgQICWnCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077119519895-eqtt7m6rqohqm943kt4j2sm8cck74s8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
