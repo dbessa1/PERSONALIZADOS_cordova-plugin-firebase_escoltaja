@@ -19,7 +19,7 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.grantec.filhorapido",
-            "certificate_hash": "D8164481128636ECD7790E81755E3A14CDDC46EB"
+            "certificate_hash": "d8164481128636ecd7790e81755e3a14cddc46eb"
           }
         },
         {
@@ -42,6 +42,14 @@
             {
               "client_id": "1077119519895-eqtt7m6rqohqm943kt4j2sm8cck74s8h.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1077119519895-42pelq1ep5gnm2kcmflchhsuob7t5mob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.grantec.filhorapido",
+                "app_store_id": "1248884940"
+              }
             }
           ]
         },

@@ -10,6 +10,8 @@
 	<string>1077119519895-42pelq1ep5gnm2kcmflchhsuob7t5mob.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.1077119519895-42pelq1ep5gnm2kcmflchhsuob7t5mob</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1077119519895-g1l40n2jju2tjjsj4n878ugll25j7mh9.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyC6-oaSYx4rpDv8t7w_JKnfNon6_fVWSCc</string>
 	<key>GCM_SENDER_ID</key>
@@ -23,15 +25,15 @@
 	<key>STORAGE_BUCKET</key>
 	<string>fihorapido.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:1077119519895:ios:56c43957787492cd</string>
 	<key>DATABASE_URL</key>
