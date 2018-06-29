@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "978713723412",
+    "firebase_url": "https://escoltaja-a6659.firebaseio.com",
+    "project_id": "escoltaja-a6659",
+    "storage_bucket": "escoltaja-a6659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978713723412:android:7f80ff8af7160aad",
+        "android_client_info": {
+          "package_name": "com.grantec.escoltaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978713723412-thn8p0qkqb2moq0hrc860q9l3ktjr4jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLbfM82ZPeyz_L1xXtG_FffgyXWcgAGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
